@@ -1,0 +1,32 @@
+1. Use parsing_st.py to clean the stack traces 
+
+-See test.csv that includes an example
+
+-Remember to change the directory before parsing
+
+2. Run the doclet to produce new files for each Class of the Android API and get their names and exceptions
+
+-See doclet_commands.txt 
+
+3. Use android_api_methods.py to get all the methods (unique) that are documented in the online Android reference
+
+4. Use extract_android_java_signatures.py to extract android and java apis. We have used names of packages from the Android SDK and Java API packages. Change the regular expressions to extract android and java packages respectively. Then use android_api_signatures.py to find possibly undocumented methods from the signatures. (Validation of methods in signatures with Android API methods)
+
+5. We downloaded challenge data (MSR) for stackoverflow and android_bugs
+
+-http://2013.msrconf.org/challenge.php
+-http://2012.msrconf.org/challenge.php
+
+From stackoverflow we got ONLY the android tags, whereas from android_bugs all. 
+
+From both data sets we kept ONLY the xml tags with the titles of the discussion threads. 
+
+6. Use parse_bugs.py to get methods (bugs_methods.txt) and pairs of methods and exceptions (bugs_pairs.txt) from android_platform_bugs.xml titles. Use parse_xml.py to get methods and pairs of methodsand exceptions from stackoverflow (pairs_stackoverflow.txt). You should get first the android tags of the downloaded file in 5. 
+
+
+
+
+
+
+ 
+
