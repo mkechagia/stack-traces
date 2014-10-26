@@ -1,0 +1,59 @@
+1. http://developer.android.com/reference/packages.html -> http://www.webcitation.org/6TXxIn816
+
+2. http://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html -> http://www.webcitation.org/6TXzlDBCJ
+
+3. http://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html -> http://www.webcitation.org/6TY02G2nE
+
+4. http://en.wikipedia.org/wiki/Bugsense -> http://www.webcitation.org/6TY0KTVFo
+
+5. http://www.splunk.com/ -> http://www.webcitation.org/6TY0VnPVi
+
+6. https://cloud.google.com/appengine/docs/python/datastore/ -> http://www.webcitation.org/6TY0dPMiO
+
+7. http://docs.oracle.com/javase/7/docs/api/java/lang/Throwable.html -> http://www.webcitation.org/6TY0mvABk
+
+8. http://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/doclet/overview.html -> http://www.webcitation.org/6TY1TGmrv
+
+9. http://stackoverflow.com/ -> http://www.webcitation.org/6TY1WujCq 
+
+10. https://code.google.com/p/android/issues/list -> http://www.webcitation.org/6TY1liK93
+
+11. http://developer.android.com/guide/components/index.html -> http://www.webcitation.org/6TY21eODz
+
+12. http://developer.android.com/guide/components/processes-and-threads.html -> http://www.webcitation.org/6TY29enZp
+
+13. http://developer.android.com/tools/debugging/ddms.html -> http://www.webcitation.org/6TY2FTtaO
+
+14. http://www.eclipse.org/mat/ -> http://www.webcitation.org/6TY2KPehv
+
+15. http://docs.oracle.com/javase/6/docs/technotes/tools/share/jhat.html -> http://www.webcitation.org/6TY2ODOqW
+
+16. http://developer.android.com/tools/debugging/debugging-tracing.html -> http://www.webcitation.org/6TY2T8vou
+
+17. http://developer.android.com/tools/help/systrace.html -> http://www.webcitation.org/6TY2WEHnv
+
+18. http://www.ej-technologies.com/products/jprofiler/overview.html -> http://www.webcitation.org/6TY2d1WYc
+
+19. http://docs.oracle.com/cd/E19830-01/819-4721/beafp/index.html -> http://www.webcitation.org/6TY2isJTQ
+
+20. http://www-03.ibm.com/systems/z/os/zos/features/unix/tools/jinsightlive.html -> http://www.webcitation.org/6TY3BAu8U
+
+21. http://tools.android.com/recent/detailednetworkusageinddms -> http://www.webcitation.org/6TY38AWv1
+
+22. http://www.linuxinsider.com/story/75780.html -> http://www.webcitation.org/6TY2wksCq
+
+23. http://junit.org/ -> http://www.webcitation.org/6TY3F2Rdc
+
+24. http://developer.android.com/tools/help/monkeyrunner_concepts.html -> http://www.webcitation.org/6TY3JPDyG
+
+25. http://developer.android.com/tools/help/lint.html -> http://www.webcitation.org/6TY3M9vyc
+
+26. http://www.drdobbs.com/windows/measuring-api-usability/184405654 -> http://www.webcitation.org/6TbB9p1LO
+
+27. http://dl.acm.org/citation.cfm?id=1855741.1855762 -> http://www.webcitation.org/6TbBUb50E
+
+28. http://dl.acm.org/citation.cfm?id=1352079.1352134 -> http://www.webcitation.org/6TbBblRnm
+
+29. http://books.google.co.uk/books?id=MQYoWv0nsy8C -> http://www.webcitation.org/6TbBhsL9I
+
+30. http://books.google.co.uk/books?id=5DmYpwAACAAJ -> http://www.webcitation.org/6TbBo9SjB
