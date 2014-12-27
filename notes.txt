@@ -6,7 +6,7 @@
 
 2. Run the doclet to produce new files for each Class of the Android API and get their names and exceptions
 
--See doclet_commands.txt 
+-See http://docs.oracle.com/javase/7/docs/technotes/guides/javadoc/doclet/overview.html 
 
 3. Use android_api_methods.py to get all the methods (unique) that are documented in the online Android reference
 
